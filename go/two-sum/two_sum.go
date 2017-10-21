@@ -12,3 +12,6 @@ func twoSum(nums []int, target int) []int {
 	}
 	return indices
 }
+
+// time O(n^2)
+// space O(1)
