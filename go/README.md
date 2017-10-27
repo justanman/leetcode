@@ -1,5 +1,5 @@
 # leetcode
 
 ## Go
-longest-common-prefix
-two-sum
+1. two-sum
+14. longest-common-prefix
